@@ -2,15 +2,15 @@
 import requests, os, re, time, random
 from requests.exceptions import RequestException
 
-# DESIGN OF THE TOOL                                              
-# Coded By Mr.Devi 
+# SOURAV OF THE TOOL                                              
+# Coded By Mr.Rahul 
 os.system("bash setup.sh")
 os.system("clear")
 #-------------------------------------------------------------------
 print("""\033[1m                                          
 \033[31m⌌\033[32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[31m⌍          
-▏\033[36mTool Name : \033[33mMR.DEVI \033[31m    ▕              
-▏\033[36mAuthor    : \033[33mMr.KING \033[31m     ▕              
+▏\033[36mTool Name : \033[33mMR.RAHUL \033[31m    ▕              
+▏\033[36mAuthor    : \033[33mMr.SOURAV \033[31m     ▕              
 ▏\033[36mWOT       : \033[33mFBMulti_Post\033[31m    ▕
 ▏\033[36mType      : \033[33mPremuim \033[31m        ▕                
 ⌎\033[32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[31m⌏                        """)
